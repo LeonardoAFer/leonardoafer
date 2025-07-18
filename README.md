@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://icon-library.com/images/sap-icon/sap-icon-18.jpg" height="60" alt="storybook logo"  />
-  <img width="12" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="rust logo"  />
