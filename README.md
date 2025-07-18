@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
+<p>I'm a backend developer from Brazil specialized in SAP technologies. I work mainly with ABAP and Java with SpringBoot, building robust ERP solutions and integrating systems using OData, Web Services, and SAP BTP (CPI). I'm a certified SAP Integration.</p>
+
 ###
 
 <div align="center">
