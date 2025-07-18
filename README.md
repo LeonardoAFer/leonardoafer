@@ -3,17 +3,30 @@
 ###
 
 <div align="center">
-  <img src="https://icon-library.com/images/sap-icon/sap-icon-18.jpg" height="60" alt="storybook logo"  />
-  <img width="11" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="maven logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ###
