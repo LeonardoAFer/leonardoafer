@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="[https://www.treinarminas.com.br/wp-content/uploads/2021/01/Icone-Academia-SAP-Curso-abap-SAP-Treinar-MInas.png.png](https://icon-library.com/images/sap-icon/sap-icon-18.jpg)" height="60" alt="storybook logo"  />
+  <img src="https://icon-library.com/images/sap-icon/sap-icon-18.jpg" height="60" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="go logo"  />
   <img width="12" />
