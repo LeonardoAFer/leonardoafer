@@ -2,13 +2,13 @@
 
 <p align="center">
   Backend developer from Brazil. I work mostly with <b>ABAP</b> and
-  <b>Java + Spring Boot</b>, building ERP solutions and system integrations on SAP.
+  <b>Java + Spring Boot</b>, building ERP solutions and system integrations.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ABAP-1A1A1A?style=flat&logoColor=white" alt="ABAP" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=java,spring,git" height="32" alt="java spring git" />
+  <img src="https://skillicons.dev/icons?i=java,spring" height="32" alt="java spring" />
 </p>
 
 <p align="center">
